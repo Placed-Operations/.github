@@ -2,7 +2,7 @@
 
 This Github organisation contains any code developed by the Placed Operations team! 🚀
 
-
+## Usage
 
 To push local code here, first create a new repository with the name of your local repo, <Your Repo> (Note the repo should already be a git repo, e.g. run `git init`).
 Run the following to add a remote called `placed` (you will have have setup `Github` access to your account on your machine):
