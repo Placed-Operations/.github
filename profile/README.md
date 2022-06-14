@@ -13,6 +13,12 @@ git remote add placed https://github.com/Placed-Operations/<Your Repo>.git
 
 Run:
 ```console
-git push -u origin master
+git push -u placed master
 ```
-To push to the master branch to the Github repo.
+To push to the master branch to the Github repo, note that you will first have to have added files and commited them to the local repo.
+  
+Now, whenever you make changes, commit them run:
+```console
+git push placed master
+```
+To update the Github repo!
