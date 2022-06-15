@@ -5,24 +5,25 @@ This Github organisation contains any code developed by the Placed Operations te
 
 ## Adding a Repo
 
-To push local code here, first create a new repository with the name of your local repo, <Your Repo> (Note the repo should already be a git repo, e.g. run `git init`).
-Run the following to add a remote called `placed` (you will have have setup `Github` access to your account on your machine):
+To push a local `git` (run `git init` in the directory) repo to this remote, first create a new `GitHub` repository with the name of your local repo, `<your-repo>`.
+Run the following to add a remote called `placed`:
 
 ```console
-git remote add placed https://github.com/Placed-Operations/<Your Repo>.git
+git remote add placed https://github.com/Placed-Operations/<your-repo>.git
 ```
 
 To push the local code to the Github repo, run:
 ```console
 git push -u placed master
 ```
-Note that you will first have to add and commit files.
+Note that you will first have to add and commit files, as well as setup `GitHub` access to your account on your machine.
 
-Now, whenever you make changes, commit them and run:
+
+Now, whenever you make local changes, commit them and run:
 ```console
 git push placed master
 ```
-This will update the (remote) Github repo with your local changes.
+This will update the (remote) `GitHub` repo with your local changes.
 
   
 ## Cloning a Repo
