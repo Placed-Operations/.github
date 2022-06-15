@@ -29,10 +29,7 @@ This will update the (remote) `GitHub` repo with your local changes.
 ## Cloning a Repo
 You can clone a repo by runnning the following `git` command:
 
-```console
+```shell
 git clone https://github.com/Placed-Operations/<repo-to-clone>.git
 ```
 
-```terminal
-git clone https://github.com/Placed-Operations/<repo-to-clone>.git
-```
