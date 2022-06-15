@@ -32,3 +32,7 @@ You can clone a repo by runnning the following `git` command:
 ```console
 git clone https://github.com/Placed-Operations/<repo-to-clone>.git
 ```
+
+```terminal
+git clone https://github.com/Placed-Operations/<repo-to-clone>.git
+```
