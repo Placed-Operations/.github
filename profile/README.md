@@ -8,19 +8,19 @@ This Github organisation contains any code developed by the Placed Operations te
 To push a local `git` (run `git init` in the directory) repo to this remote, first create a new `GitHub` repository with the name of your local repo, `<your-repo>`.
 Run the following to add a remote called `placed`:
 
-```console
+```shell
 git remote add placed https://github.com/Placed-Operations/<your-repo>.git
 ```
 
 To push the local code to the Github repo, run:
-```console
+```shell
 git push -u placed master
 ```
 Note that you will first have to add and commit files, as well as setup `GitHub` access to your account on your machine.
 
 
 Now, whenever you make local changes, commit them and run:
-```console
+```shell
 git push placed master
 ```
 This will update the (remote) `GitHub` repo with your local changes.
