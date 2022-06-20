@@ -5,7 +5,7 @@ This Github organisation contains any code developed by the Placed Operations te
 
 ## Adding a Repo
 
-To push a local `git` (run `git init` in the directory) repo to this remote, first create a new `GitHub` repository with the name of your local repo, `<your-repo>`.
+To push a local `git`  repo to this remote, first create a new `GitHub` repository with the name of your local repo, `<your-repo>`.
 Run the following to add a remote called `placed`:
 
 ```shell
