@@ -1,3 +1,5 @@
+![Placed Logo](https://placed-app.com/wp-content/uploads/2020/03/placed-logo-1.svg)
+
 # Placed Operations
 
 This Github organisation contains any code developed by the Placed Operations team! 🚀
