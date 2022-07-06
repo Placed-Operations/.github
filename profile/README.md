@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<img src="https://user-images.githubusercontent.com/40952801/177514419-ee33e903-8ef1-44a3-9a6a-6214595b78a6.png" alt="Placed Logo">
+<a href="https://placed-app.com/"><img src="https://user-images.githubusercontent.com/40952801/177514419-ee33e903-8ef1-44a3-9a6a-6214595b78a6.png" alt="Placed Logo"></a>
 <h1 align="center">Placed Operations</h1>
 
 </p>
