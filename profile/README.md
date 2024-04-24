@@ -42,3 +42,13 @@ You can clone a repo by runnning the following `git` command:
 git clone https://github.com/Placed-Operations/<repo-to-clone>.git
 ```
 
+## PythonAnywhere
+Most scripts here are hosted on pythonanywhere so here are some useful commands:
+
+```shell
+grep -rl 'https://api.placed-app.com/api/v1/' **/*.py | xargs sed -i 's|https://api.placed-app.com/api/v1/|https://api.placed-app.com/api/v4/|g'
+```
+This will replace the substring `https://api.placed-app.com/api/v1/` with `https://api.placed-app.com/api/v4/` in all python files that are at most one directory deep. To change the directory search level, add another `/*` before `.py` e.g `**/*/*.py` will now search two directories deep, not one.
+
+
+
